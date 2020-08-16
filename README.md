@@ -4,38 +4,45 @@
 <h2>Observation</h2>
 <p>Not use default plate mercosul, only plate default old</p>
 
-<br><br>
+<br>
 
-<h3>Create file .env</h3><br>
+<h3>Create file .env</h3>
 <p>
 Copy information from .env.example
 </p>
 
-<br><br>
+<br>
 
-<h3>Run dependeces</h3><br>
+<h3>Run dependeces</h3>
 <p>
+```
 npm install OR yarn install
+```
 </p>
 
-<br><br>
+<br>
 
-<h3>Run project</h3><br>
+<h3>Run project</h3>
 <p>
+```
 npm run start OR yarn start
+```
 </p>
 
-<br><br>
+<br>
 
-<h3>Request</h3><br>
+<h3>Request</h3>
 <p>
+```
 http://localhost:3333/sinesp/ABC1234
+```
 </p>
 
-<br><br>
+<br>
 
-<h3>Response</h3><br>
+<h3>Response</h3>
 <p>
+```
 {
     "codigoRetorno":                         "0",
     "mensagemRetorno":                       "Sem erros.",
@@ -55,4 +62,5 @@ http://localhost:3333/sinesp/ABC1234
     "dataAtualizacaoRouboFurto":             "01/08/2018",
     "dataAtualizacaoAlarme":                 "01/08/2018"
 }
+```
 </p>
