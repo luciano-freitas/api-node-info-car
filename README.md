@@ -14,34 +14,27 @@ Copy information from .env.example
 <br>
 
 <h3>Run dependeces</h3>
-<p>
 ```
 npm install OR yarn install
 ```
-</p>
 
 <br>
 
 <h3>Run project</h3>
-<p>
 ```
 npm run start OR yarn start
 ```
-</p>
 
 <br>
 
 <h3>Request</h3>
-<p>
 ```
 http://localhost:3333/sinesp/ABC1234
 ```
-</p>
 
 <br>
 
 <h3>Response</h3>
-<p>
 ```
 {
     "codigoRetorno":                         "0",
@@ -63,4 +56,3 @@ http://localhost:3333/sinesp/ABC1234
     "dataAtualizacaoAlarme":                 "01/08/2018"
 }
 ```
-</p>
